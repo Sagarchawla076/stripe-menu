@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/stripe-menu/static/css/main.d6c02ac7.chunk.css",
+    "main.js": "/stripe-menu/static/js/main.f3a39b46.chunk.js",
+    "main.js.map": "/stripe-menu/static/js/main.f3a39b46.chunk.js.map",
+    "runtime-main.js": "/stripe-menu/static/js/runtime-main.7ba31d0f.js",
+    "runtime-main.js.map": "/stripe-menu/static/js/runtime-main.7ba31d0f.js.map",
+    "static/js/2.66ae42a2.chunk.js": "/stripe-menu/static/js/2.66ae42a2.chunk.js",
+    "static/js/2.66ae42a2.chunk.js.map": "/stripe-menu/static/js/2.66ae42a2.chunk.js.map",
+    "index.html": "/stripe-menu/index.html",
+    "static/css/main.d6c02ac7.chunk.css.map": "/stripe-menu/static/css/main.d6c02ac7.chunk.css.map",
+    "static/js/2.66ae42a2.chunk.js.LICENSE.txt": "/stripe-menu/static/js/2.66ae42a2.chunk.js.LICENSE.txt",
+    "static/media/main.scss": "/stripe-menu/static/media/hero.acf1e00e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ba31d0f.js",
+    "static/js/2.66ae42a2.chunk.js",
+    "static/css/main.d6c02ac7.chunk.css",
+    "static/js/main.f3a39b46.chunk.js"
+  ]
+}
